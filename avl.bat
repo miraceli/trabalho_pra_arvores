@@ -1,0 +1,1 @@
+gcc -g AVL.c main_avl.c AVL.h -o avl.exe

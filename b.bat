@@ -1,0 +1,1 @@
+gcc -g main_b.c -o b.exe

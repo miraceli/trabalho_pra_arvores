@@ -1,0 +1,6 @@
+executar bat
+executar exe
+printar ressultado num arquivo log pelo cmd
+    b.exe > log1_arvoreb.csv
+
+numeros sequenciais (caso pior) x numeros aleatórios (caso médio)

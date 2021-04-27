@@ -1,0 +1,10 @@
+avl.exe > avl_mediocaso1.csv
+avl.exe > avl_mediocaso2.csv
+avl.exe > avl_mediocaso3.csv
+avl.exe > avl_mediocaso4.csv
+avl.exe > avl_mediocaso5.csv
+avl.exe > avl_mediocaso6.csv
+avl.exe > avl_mediocaso7.csv
+avl.exe > avl_mediocaso8.csv
+avl.exe > avl_mediocaso9.csv
+avl.exe > avl_mediocaso10.csv

@@ -1,0 +1,10 @@
+b.exe > b_mediocaso1.csv
+b.exe > b_mediocaso2.csv
+b.exe > b_mediocaso3.csv
+b.exe > b_mediocaso4.csv
+b.exe > b_mediocaso5.csv
+b.exe > b_mediocaso6.csv
+b.exe > b_mediocaso7.csv
+b.exe > b_mediocaso8.csv
+b.exe > b_mediocaso9.csv
+b.exe > b_mediocaso10.csv
